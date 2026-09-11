@@ -1,4 +1,4 @@
-# This is the parent class.
+
 class Organism
     def information(self):
         return "This is an organism."
